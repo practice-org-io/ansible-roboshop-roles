@@ -1,0 +1,3 @@
+- name: Hello World
+  ansible.builtin.roles:
+    msg: "Hi from Roles"
