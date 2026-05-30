@@ -1,6 +1,6 @@
 ansible_user: ec2-user
 ansible_password: DevOps321
-MONGO_HOST: mongodb-dev.lokeshinfo.online
+MONGODB_HOST: mongodb-dev.lokeshinfo.online
 CATALOGUE_HOST: catalogue-dev.lokeshinfo.online
 REDIS_HOST: redis-dev.lokeshinfo.online
 USER_HOST: user-dev.lokeshinfo.online
